@@ -1,6 +1,4 @@
 # Thesis_Density_Estimation_w_Normalizing_Flows
-
-# Thesis_Density_Estimation_with_Normalizing_Flows
 In this repo is the code for my Master thesis.
 
 All of the code for the normalizing flows is written in the Python module DEwNF.
